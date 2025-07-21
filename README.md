@@ -30,7 +30,7 @@ This project demonstrates a cloud-connected ESP32-based IoT system that reads se
 
 ## 🔌 Circuit Diagram
 
-![Wiring Diagram](Docs/wiring_diagram.png)
+![Wiring Diagram](<img width="36" height="109" alt="image" src="https://github.com/user-attachments/assets/5e336b1e-628d-48f9-b6ea-e4f2493b0867" />)
 
 ---
 
