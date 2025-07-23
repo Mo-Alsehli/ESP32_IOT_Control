@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"esp32-iot-64134","appId":"1:912315014180:android:dc1a0c9afba6e8a06a8cb1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"esp32-iot-64134","configurations":{"android":"1:912315014180:android:dc1a0c9afba6e8a06a8cb1"}}}}}}
