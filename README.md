@@ -10,7 +10,7 @@ An interactive IoT system built using **ESP32**, capable of reading sensor value
 - 🎚️ Potentiometer to control LED brightness (PWM via GPIO25)
 - 🔔 Buzzer alert when temperature exceeds threshold
 - 🌐 Firebase Realtime Database sync (data & control)
-- 📱 Android App UI built using MIT App Inventor
+- 📱 Android App UI built using Flutter 
 - 🖥️ Firebase dashboard to control buzzer, LED and threshold remotely
 
 ---
